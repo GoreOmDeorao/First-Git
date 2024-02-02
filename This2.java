@@ -17,5 +17,7 @@ class Main {
        // calling the setter and the getter method
        obj.setName("Toshiba");
        System.out.println("obj.name: "+obj.getName());
+
    }
+
 }

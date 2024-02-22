@@ -1,5 +1,7 @@
 // Java program to illustrate the 
+
 // java.lang.StringBuffer append(char[] cstr, int iset, int length) 
+
 import java.lang.*; 
 
 public class Geeks { 

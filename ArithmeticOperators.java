@@ -29,7 +29,5 @@ public class ArithmeticOperators {
         b--;
 
         System.out.println("Increment: " + a + "\nDecrement: " + b);
-
-    }
-
+        }
 }
